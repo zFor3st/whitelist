@@ -1,2 +1,3 @@
 return {
+   "3197E817-F93E-4DA5-9C60-C1D1DF32928B", -- caraQTrocouPelaConta, 2024-12-05 00:44:49, 414
 }
